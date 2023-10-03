@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cleopastech.
+- 👋 Hi, I’m @cleotech.
 - 👀 I’m interested in Artificial intelligence.
 - 🌱 I’m currently learning Information Technology at Harare Institute of Technology.
 
